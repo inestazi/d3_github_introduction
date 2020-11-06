@@ -1,21 +1,55 @@
 body {
 
-  background: rgb(0,191,255);
+  background: rgb(0,0,0);
 }
 .fable1{
-  margin-left: 10em;
+  margin-left: 5em;
   margin-right: 5em;
   margin-top: 5em;
   margin-bottom: 5em;
   text-align: center;
-  background: url('image/bg_image01.jpg') no-repeat top center;
+  background: no-repeat top center;
   background-size: cover;
   background-attachment: fixed;
   min-height: 80vh;
   display: flex;
   align-items: center;
   justify-content: center;
+  background: url('image/01.jpg') no-repeat top center fixed;
+
 }
+.fable2{
+  margin-left: 5em;
+  margin-right: 5em;
+  margin-top: 5em;
+  margin-bottom: 5em;
+  text-align: center;
+  background: no-repeat top center;
+  background-size: cover;
+  background-attachment: fixed;
+  min-height: 80vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: url('image/02.jpg') no-repeat top center fixed;
+}
+.fable3{
+  margin-left: 5em;
+  margin-right: 5em;
+  margin-top: 5em;
+  margin-bottom: 5em;
+  text-align: center;
+  background: no-repeat top center;
+  background-size: cover;
+  background-attachment: fixed;
+  min-height: 80vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: url('image/03.jpg') no-repeat top center fixed;
+}
+
+
 h1{
   text-align: center;
 
